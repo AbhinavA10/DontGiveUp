@@ -1,0 +1,62 @@
+[
+  {
+    "Death Count": 1,
+    "On Boss Fight": false,
+    "Name": "Bob"
+  },
+  {
+    "Death Count": 2,
+    "On Boss Fight": true,
+    "Name": "Fred"
+  },
+  {
+    "Death Count": 5,
+    "On Boss Fight": false,
+    "Name": "Frank"
+  },
+  {
+    "Death Count": 6,
+    "On Boss Fight": true,
+    "Name": "Chan"
+  },
+  {
+    "Death Count": 4,
+    "On Boss Fight": false,
+    "Name": "Abdul"
+  },
+  {
+    "Death Count": 99,
+    "On Boss Fight": false,
+    "Name": "Rameez"
+  },
+  {
+    "Death Count": 5,
+    "On Boss Fight": false,
+    "Name": "Erk"
+  },
+  {
+    "Death Count": 0,
+    "On Boss Fight": true,
+    "Name": "Officer Lee"
+  },
+  {
+    "Death Count": 100000,
+    "On Boss Fight": false,
+    "Name": "your name."
+  },
+  {
+    "Death Count": 0,
+    "On Boss Fight": true,
+    "Name": "ruler"
+  },
+  {
+    "Death Count": 0,
+    "On Boss Fight": false,
+    "Name": "w"
+  },
+  {
+    "Death Count": 0,
+    "On Boss Fight": false,
+    "Name": "Billy"
+  }
+]

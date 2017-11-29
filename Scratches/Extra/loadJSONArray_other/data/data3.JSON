@@ -1,0 +1,32 @@
+[
+  {
+    "id": 6,
+    "species": "Superfast",
+    "name": "Lambo",
+    "Is Cool": true
+  },
+  {
+    "id": 4,
+    "species": "Too Fast",
+    "name": "Venom",
+    "Is Cool": false
+  },
+  {
+    "id": 3,
+    "species": "Heavy",
+    "name": "Challenger",
+    "Is Cool": true
+  },
+  {
+    "id": 1,
+    "species": "Muscle",
+    "name": "Camaro",
+    "Is Cool": true
+  },
+  {
+    "id": 0,
+    "species": "Muscle",
+    "name": "Shelby",
+    "Is Cool": true
+  }
+]

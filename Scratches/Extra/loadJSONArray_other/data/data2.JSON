@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "species": "Smart",
+    "name": "Ironman",
+    "Is Cool": true
+  },
+  {
+    "id": 4,
+    "species": "Brooding",
+    "name": "Batman",
+    "Is Cool": true
+  },
+  {
+    "id": 2,
+    "species": "Smart",
+    "name": "HULK",
+    "Is Cool": true
+  },
+  {
+    "id": 7,
+    "species": "Blind",
+    "name": "Daredevil",
+    "Is Cool": true
+  },
+  {
+    "id": 1,
+    "species": "Funny",
+    "name": "Spiderman",
+    "Is Cool": true
+  }
+]

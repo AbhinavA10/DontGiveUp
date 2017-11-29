@@ -1,0 +1,12 @@
+[
+  {
+    "Death Count": 0,
+    "On Boss Fight": false,
+    "Name": "This is a random name and was used solely for the purpose of having something in this JSON file; if it wasn't here then our game would crash. We hope that no one will enter this ridiculously long 'name' into our game..."
+  },
+  {
+    "Death Count": 0,
+    "On Boss Fight": false,
+    "Name": "w"
+  }
+]

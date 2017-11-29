@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "species": "Capra hircus",
+    "name": "Goat",
+    "Is Cool": true
+  },
+  {
+    "id": 1,
+    "species": "Panthera pardus",
+    "name": "Leopard",
+    "Is Cool": false
+  },
+  {
+    "id": 1,
+    "species": "Fierce King",
+    "name": "Lion",
+    "Is Cool": true
+  },
+  {
+    "id": 2,
+    "species": "Equus zebra",
+    "name": "Zebra",
+    "Is Cool": true
+  },
+  {
+    "id": 3,
+    "species": "Abra Kadabra",
+    "name": "Magician",
+    "Is Cool": true
+  }
+]
